@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/harrymoreno/programming/reactNative/react-native-contacts/example/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/harrymoreno/programming/reactNative/react-native-contacts/example/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/harrymoreno/programming/reactNative/my-app/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/harrymoreno/programming/reactNative/my-app/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

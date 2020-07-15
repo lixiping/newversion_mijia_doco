@@ -1,0 +1,10 @@
+{
+        "name": "project-doco-fcb-docov001",
+        "version": "1.0.40",
+        "scripts":{
+            "start":"node ../../bin/runProject.js"
+        },
+        "dependencies":{
+            
+        }
+    }

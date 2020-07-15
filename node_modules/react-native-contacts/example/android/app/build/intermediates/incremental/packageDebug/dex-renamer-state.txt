@@ -1,0 +1,4 @@
+#Sun Mar 11 18:51:58 EDT 2018
+base.0=/Users/harrymoreno/programming/reactNative/react-native-contacts/example/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/harrymoreno/programming/reactNative/react-native-contacts/example/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

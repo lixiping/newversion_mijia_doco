@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/harrymoreno/programming/reactNative/my-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/harrymoreno/programming/reactNative/my-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_82301f4640e1216156574d2878e07590e5f6a51b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harrymoreno/programming/reactNative/react-native-contacts/example/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/harrymoreno/programming/reactNative/react-native-contacts/example/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_d0a838a15ec706851fc9e4354ed81547d1575c3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harrymoreno/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/harrymoreno/programming/reactNative/my-app/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_6d345ebd6f4bed100d8ecdfc0cbd90972512677d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harrymoreno/programming/reactNative/my-app/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/harrymoreno/programming/reactNative/my-app/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_54be92acbd9db174684b840d267cda55a8775af1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harrymoreno/programming/reactNative/my-app/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/harrymoreno/programming/reactNative/my-app/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_b971d292503af96ed32cd37504f730d3c7303b03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harrymoreno/programming/reactNative/my-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/harrymoreno/programming/reactNative/my-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_6840fcc6a33fb5a7c2d11bed3fed2e73b6996ceb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harrymoreno/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/harrymoreno/programming/reactNative/my-app/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_e27d8df5c70b7e380bf3ef4f9bd77207e7b59d09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harrymoreno/programming/reactNative/my-app/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/harrymoreno/programming/reactNative/my-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_a5ace665e5055050accc10aaf5e9ad1c4f11ca02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harrymoreno/programming/reactNative/my-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/harrymoreno/programming/reactNative/my-app/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_52d6816dc28d5c38aad90601539b74e93a8ea8d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harrymoreno/programming/reactNative/react-native-contacts/example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/harrymoreno/programming/reactNative/react-native-contacts/example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_099be1f99de30f64516a33e37c74c8c627b7003f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harrymoreno/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/harrymoreno/programming/reactNative/react-native-contacts/example/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_c9288c9609e4f1b5ef5ebef0e4fdc31f1bf6fd81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harrymoreno/programming/reactNative/react-native-contacts/example/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
+        <dex dex="/Users/harrymoreno/programming/reactNative/react-native-contacts/example/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.52.0_8a4afbf35609da4a305f9559f5ac07a4b6ccad86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harrymoreno/programming/reactNative/react-native-contacts/example/android/app/build/intermediates/exploded-aar/demo/react-native-contacts/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8c5b7c70e6df0da731f722b633bf30694d895543">
+        <dex dex="/Users/harrymoreno/programming/reactNative/react-native-contacts/example/android/app/build/intermediates/pre-dexed/debug/demo-react-native-contacts-unspecified_6f36194261f6ad26b6b65ffd4f60e4a8038f3763.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harrymoreno/programming/reactNative/react-native-contacts/example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/harrymoreno/programming/reactNative/react-native-contacts/example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_29d0e6b7b952bddad7948b16f4a4ffc8f3b5e41f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harrymoreno/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/harrymoreno/programming/reactNative/my-app/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_9eabd841b5bae8ab4903d3b457bd9000da9777d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harrymoreno/programming/reactNative/react-native-contacts/example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/harrymoreno/programming/reactNative/react-native-contacts/example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_1cb694dd8276b0a4f7449ed71a63b0a8b83a8e6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harrymoreno/programming/reactNative/react-native-contacts/example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/harrymoreno/programming/reactNative/react-native-contacts/example/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_977b7a5fcda78d3b517596f912fdcf1189679f01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harrymoreno/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/harrymoreno/programming/reactNative/my-app/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_bccedec53f4af94c4297df3d19939e8edb84f3d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harrymoreno/programming/reactNative/react-native-contacts/example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/harrymoreno/programming/reactNative/react-native-contacts/example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_419cf34ab76ee252e409521de7a5267711b60578.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harrymoreno/programming/reactNative/my-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/harrymoreno/programming/reactNative/my-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_b2cecf9e2ae0d87abdb5cb6cbdf48a99a195590b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harrymoreno/programming/reactNative/react-native-contacts/example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/harrymoreno/programming/reactNative/react-native-contacts/example/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_55a33c0d9ad2c46230fd6feedb7e1cd219e7b43b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harrymoreno/programming/reactNative/react-native-contacts/example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/harrymoreno/programming/reactNative/react-native-contacts/example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_78944b09d2b2786338dc3db1503b94d097bec180.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harrymoreno/programming/reactNative/my-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/harrymoreno/programming/reactNative/my-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_ba208da71b7e8102ecffe270d2090fe90408809d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harrymoreno/programming/reactNative/my-app/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/harrymoreno/programming/reactNative/my-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_20cca3732c3a61f522992ba34ea6e4ff202bf0ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harrymoreno/programming/reactNative/react-native-contacts/example/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/harrymoreno/programming/reactNative/react-native-contacts/example/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_4467d31c50db61a74fdfc8ad07a9ee72ab62a7a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harrymoreno/programming/reactNative/my-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
+        <dex dex="/Users/harrymoreno/programming/reactNative/my-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.52.0_f1ddb309873879540fdf857301fc2ba0ce84df40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harrymoreno/programming/reactNative/react-native-contacts/example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/harrymoreno/programming/reactNative/react-native-contacts/example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_b0429a927ee2fe466ecb0cb6ab86c1710636d6a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harrymoreno/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/harrymoreno/programming/reactNative/my-app/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_7cca07d999ac8aed326e7dae220ce2a599b678a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harrymoreno/programming/reactNative/my-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/harrymoreno/programming/reactNative/my-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_e17431756218a20d2a4c80b274ed8aa8b4b8c076.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harrymoreno/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/harrymoreno/programming/reactNative/my-app/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_e284e68daf613942bd90108d4cdc36d8d5ddcbcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harrymoreno/programming/reactNative/my-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/harrymoreno/programming/reactNative/my-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_9c0b161fd5a9f0cc6061c815cac79348630ed277.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harrymoreno/programming/reactNative/react-native-contacts/example/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/harrymoreno/programming/reactNative/react-native-contacts/example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_57fcfc45fc0ad0ec023b33d54fd7fdf61bbec027.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harrymoreno/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/harrymoreno/programming/reactNative/my-app/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_f5fe9dce8080fabb50d96aa53e01d4d616ad5a80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harrymoreno/programming/reactNative/react-native-contacts/example/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/harrymoreno/programming/reactNative/react-native-contacts/example/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_0484c74e6bc7101843b46e1d92c763dea115404c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/harrymoreno/programming/reactNative/my-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/harrymoreno/programming/reactNative/my-app/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_4d42270e973e88e3020ebe9b3b15474f437e55d2.jar" />
+    </item>
+
+</items>

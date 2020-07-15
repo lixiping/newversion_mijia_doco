@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/harrymoreno/programming/reactNative/my-app/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/harrymoreno/programming/reactNative/my-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/harrymoreno/programming/reactNative/react-native-contacts/example/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/harrymoreno/programming/reactNative/react-native-contacts/example/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/res/xml/preferences.xml"
+    }
+]
