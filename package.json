@@ -45,7 +45,7 @@
     "jsdoc": "^3.6.3",
     "lodash.range": "3.2.0",
     "lottie-react-native": "2.5.5",
-    "merge": "1.2.1",
+    "merge": "2.1.1",
     "miot": "file:./miot-sdk",
     "prop-types": "15.7.2",
     "react": "16.9.0",
